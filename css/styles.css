@@ -1,3 +1,30 @@
+.style-switch-box {
+  text-align: right;
+}
+
+.style-switch-box ul {
+  list-style-type: none;
+}
+
+.style-switch-box li {
+  display: inline-block;
+}
+
+.light-theme {
+  background-color: #e6f2ff;
+  color: #004080;
+}
+
+.dark-theme {
+  background-color: #004080;
+  color: #e6f2ff;
+}
+
+.default-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
+
 h1 {
   color: #565b63;
   border-bottom: 3px solid #000;
